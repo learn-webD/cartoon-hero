@@ -1,0 +1,27 @@
+/*/body{
+	background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/04/rick-and-morty-wallpaper-portal-wallpaper-001.jpg);
+}*/
+h1{
+	font-size: 50px;
+	text-align: center;
+	font-kerning: f;
+
+}
+img.center{
+	display: block;
+	margin: auto;
+}
+
+h2{
+	font-size: 30px;
+
+}
+
+p.font{
+	font-size: 15px;
+}
+
+p.gry{
+	color: grey;
+}
+
