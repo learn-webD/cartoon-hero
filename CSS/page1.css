@@ -1,33 +1,72 @@
-/*/body{
-	background-image: url(https://wallpaperboat.com/wp-content/uploads/2019/04/rick-and-morty-wallpaper-portal-wallpaper-001.jpg);
-}*/
-*{
-	font-family: cursive;
-	font-size: 15px;
- }
-
-h1{
-	font-size: 45px;
-	text-align: center;
-	text-shadow: 2px 4px 8px aqua;
-	color: aqua;
-  }
-img.center{
-	display: block;
-	margin: auto;
-	
-		  }
-
-h2{
-	font-size: 30px;
-	display: block;
-	color: aqua;
-  }
-
-p.gry{
-	color: grey;
-	font-size: 12px;
-	text-align: center;
+body{
+margin: 0;
 }
 
+*{
+	font-family: cursive;
+	font-size: 20px;
+ }
+
+h1, h2 {
+	color: aqua;
+	font-family: 'Rock Salt', cursive;
+}
+
+
+
+header{
+	background-color: #1b3737;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1 {
+	text-shadow: 5px 7px 20px aqua;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 3000px;
+	width: 300px;
+	border: 8px solid aqua;
+}
+
+main{
+	width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+
+main h2{
+	font-size: 25px;
+}
+
+main img{
+	width: 100%;
+}
+
+a:hover{
+	color: aqua;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+}
+
+footer{
+	background-color: #1b3737;
+	color: #fffafa;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}	
+footer a{
+	color: #fffafa;
+
+}
+footer a:hover{
+	background-color: transparent;
+}
 
